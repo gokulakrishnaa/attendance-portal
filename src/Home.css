@@ -1,0 +1,25 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  word-spacing: 10px;
+}
+
+.mainImg {
+  height: 550px;
+  width: 930px;
+}
+
+.loginContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}

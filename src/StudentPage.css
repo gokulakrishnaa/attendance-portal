@@ -1,0 +1,19 @@
+.studentpage {
+  height: 100vh;
+}
+
+.studImg {
+  height: 370px;
+  width: 350px;
+}
+
+.top {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+.studDetail,
+.details > p {
+  font-size: 24px;
+}

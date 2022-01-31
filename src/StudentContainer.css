@@ -1,0 +1,18 @@
+.studImg {
+  height: 160px;
+  width: 160px;
+}
+
+.student-card {
+  display: flex;
+  gap: 20px;
+  background-color: white;
+  height: 160px;
+  width: 35%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.details {
+  font-weight: 500;
+}

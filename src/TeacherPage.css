@@ -1,0 +1,25 @@
+.teacherpage {
+  height: 100%;
+  padding: 20px;
+  width: 100%;
+}
+
+.student-list {
+  font-size: 24px;
+  font-weight: 500;
+  margin: 20px 0px;
+}
+
+.card {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.updatestatus {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 50%;
+}
